@@ -1,4 +1,4 @@
-**Python GUI Downloader**
+## **Python GUI Downloader**
 
 A simple Python application for downloading files from URLs using a graphical user interface (GUI). This project demonstrates how to create a basic downloader tool using `tkinter` and `requests`.
 
